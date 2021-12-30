@@ -169,9 +169,14 @@ main {
   width: 200px;
   margin: 1rem auto 0 auto;
   color: red;
+  border: 1px solid red;
   letter-spacing: 0.1rem;
   background: transparent;
-  border: 1px solid red;
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
+  cursor: pointer;
+}
+.single-tour .delete-btn:hover {
+  background-color: red;
+  color: white;
 }
