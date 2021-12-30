@@ -1,2 +1,3 @@
 # tours-planner-web-app
-Created with CodeSandbox
+Technology used : html, css , javascript , react.js
+link of prject : https://csb-6dxcx.netlify.app
