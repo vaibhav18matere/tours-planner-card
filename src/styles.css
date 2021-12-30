@@ -87,7 +87,7 @@ p {
   }
 }
 .btn {
-  background: hsl(205, 78%, 60%);
+  background: blue;
   display: inline-block;
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
@@ -99,7 +99,10 @@ p {
   margin-top: 2rem;
   font-size: 1.2rem;
 }
-
+.btn:hover {
+  background-color: black;
+  color: white;
+}
 main {
   width: 90vw;
   max-width: var(--fixed-width);
